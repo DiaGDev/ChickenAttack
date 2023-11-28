@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - GameObjects
+  - Friend1
+  - Friend2
+  - Egg1
+  - Egg2
+  - 
+  - Farmer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 4158230267
+    locked: 0
+  - name: MapMargins
+    uniqueID: 344693277
+    locked: 0
+  - name: Obstacles
+    uniqueID: 621708069
+    locked: 0
+  - name: GameObjects
+    uniqueID: 665688263
+    locked: 0
+  - name: HP
+    uniqueID: 1713060915
+    locked: 0
